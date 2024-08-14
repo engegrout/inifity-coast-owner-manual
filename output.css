@@ -597,6 +597,10 @@ video {
   height: 100vh;
 }
 
+.h-64 {
+  height: 16rem;
+}
+
 .min-h-dvh {
   min-height: 100dvh;
 }
